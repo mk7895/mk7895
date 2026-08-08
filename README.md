@@ -1,60 +1,55 @@
 # Mateusz Klepacki
 
-Economics, data and product building in London.
+I am an economist and co-founder of Acadea, based in London. I hold an MSc in
+Econometrics and Mathematical Economics from LSE and a BSc in Economics and
+Business & Finance from NYU. My work combines empirical research,
+financial-market analysis and the development of practical digital products.
 
-I combine econometric research with practical product work. I am the founder of
-[Acadea](https://acadea.org/), where I have taken a real mentoring service from
-business requirements to a working bilingual website and platform. I use
-AI-assisted development as a tool, while owning the problem definition, product
-decisions, domain logic, validation and iteration.
-
-I am interested in roles where rigorous analysis, commercial judgement and
-hands-on execution meet.
+This profile contains selected Stata, R and Python research projects alongside
+the public code behind Acadea.
 
 ## Selected work
 
 ### [Acadea](https://github.com/mk7895/Acadea) · [Live product](https://acadea.org/)
 
-A TypeScript monorepo for a mentoring and university-application service:
-public website, mentor/mentee platform, API, PostgreSQL data model, booking and
-contact workflows, Google integrations and generated API clients.
+Acadea is a live bilingual mentoring and university-application service that
+has supported more than 200 students and contributed to over 75 university
+placements. Its public TypeScript monorepo contains the website, mentor/mentee
+platform, API, PostgreSQL data layer and shared packages behind the deployed
+product.
 
-**My role:** founder and product lead. I defined the user journeys, business
-rules and operational workflows; prioritised and tested releases; and used
-AI-assisted development to turn those decisions into a deployed product.
+**My contribution:** As co-founder, I translated student, mentor and
+administrative needs into product requirements, workflows and business rules;
+prioritised and tested releases; and iterated the deployed platform. The
+implementation was developed with extensive AI assistance, while I defined the
+required behaviour, reviewed the resulting work and tested it against the
+organisation’s operational needs.
 
 ### [Shanghai Stock Exchange RDiT](https://github.com/mk7895/shanghai-stock-exchange-rdit)
 
-Bachelor-thesis research in Stata: rolling-window event identification and
-multiple-cutoff regression discontinuity in time across a long panel of listed
-securities. Licensed market data are deliberately excluded.
+My NYU bachelor’s-thesis research in Stata: rolling-window event identification
+and multiple-cutoff regression discontinuity in time across a long panel of
+listed securities.
 
 ### [Multi-Asset Volatility Models](https://github.com/mk7895/multi-asset-volatility-models)
 
-An R implementation of custom asymmetric volatility models, numerical
-estimation, BIC comparison and news-impact curves across seven financial
-markets.
+Custom asymmetric volatility models in R, numerical estimation, BIC comparison
+and news-impact curves across seven financial markets.
 
 ### [MetaKaggle Ecosystem Analysis](https://github.com/mk7895/metakaggle-ecosystem-analysis)
 
-Python notebooks covering API and web data collection, pandas-based data
-engineering, NLP, exploratory modelling and graph visualisation of the Kaggle
-ecosystem. Data and credentials are excluded.
-
-### [Ethereum Portfolio Prototype](https://github.com/mk7895/ethereum-portfolio-prototype)
-
-An archived educational prototype spanning React, Node/Express, Solidity,
-Truffle, MetaMask and Ethereum testnet interactions. It is published as an
-AI-assisted systems-integration learning project, not a production trading
-platform.
+Python analysis of more than 325,000 Kaggle datasets and 5,600 competitions,
+covering data collection, pandas-based engineering, text analysis, exploratory
+modelling and network visualisation.
 
 ## What I work with
 
-- **Economics and data:** Stata, R, Python, econometrics, time series, market data
+- **Economics and data:** Stata, R, Python, econometrics, time series and market data
 - **Product delivery:** requirements, workflow design, testing, deployment and iteration
 - **Web systems:** TypeScript, React, Express, PostgreSQL and API integrations
 
 ## Contact
 
 [LinkedIn](https://www.linkedin.com/in/mateusz-klepacki) ·
-[Acadea](https://acadea.org/) · London, UK
+[Acadea](https://acadea.org/) ·
+[mateusz.klepacki@nyu.edu](mailto:mateusz.klepacki@nyu.edu) · London, UK
