@@ -8,6 +8,9 @@ business requirements to a working bilingual website and platform. I use
 AI-assisted development as a tool, while owning the problem definition, product
 decisions, domain logic, validation and iteration.
 
+I am interested in roles where rigorous analysis, commercial judgement and
+hands-on execution meet.
+
 ## Selected work
 
 ### [Acadea](https://github.com/mk7895/Acadea) · [Live product](https://acadea.org/)
